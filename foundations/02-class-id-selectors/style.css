@@ -11,3 +11,9 @@
 .cool {
     font-size: 24px;
 }
+
+#hearts {
+    background-color: #9de3ac;
+    font-size: 24px;
+    font-weight: bold;
+}
