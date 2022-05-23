@@ -46,3 +46,6 @@ a {
 ul {
   list-style-type: none;
 }
+.button {
+  display: flex;
+}
